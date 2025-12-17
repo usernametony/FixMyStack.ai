@@ -1,0 +1,5 @@
+{
+  "name": "FixMyStack.ai",
+  "description": "An AI-powered tool to analyze technical errors, providing plain-English explanations, root causes, and fix snippets.",
+  "requestFramePermissions": []
+}
